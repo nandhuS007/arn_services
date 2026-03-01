@@ -156,7 +156,7 @@ export default function Home() {
       </section>
 
       {/* Team Section */}
-      <section id="team" className="py-20 md:py-32 px-4 bg-background">
+      {/* <section id="team" className="py-20 md:py-32 px-4 bg-background">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16 animate-fadeInUp">
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">Meet Our Team</h2>
@@ -190,7 +190,7 @@ export default function Home() {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* CTA Section */}
       <section className="py-20 md:py-32 px-4 bg-gradient-to-r from-primary to-primary/80">
